@@ -1,0 +1,83 @@
+
+.linkedin > img{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    margin-left: 7%;
+    margin-top: 4%;
+}
+.youtube > img{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    margin-left: 2%;
+    margin-top: 4%;
+}
+.facebook > img{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    margin-left: -3%;
+    margin-top: 4%;
+}
+.basket > img{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    margin-left: -8%;
+    margin-top: 4%;
+    color: white;
+}
+main{
+    text-align: center;
+    justify-content: center;
+    margin-top: 5%;
+    border: solid 5px rgb(0, 0, 2);
+    margin-left: 700px;
+    margin-right: 700px;
+    background: linear-gradient(120deg, #e9c217,#010302 );
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    border-radius: 5%;
+    
+}
+.photo > img{
+    border: solid 6px green;
+    width: 50%;
+    height: 30%;
+    margin-top: 20%;
+    border-radius: 50%;
+}
+.prenom{
+    font: bold;
+    font-size: 150%;
+    margin-top: -8%;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+.email{
+    margin-right: 15%;
+    font-weight: bold;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.tel{
+    margin-right: 33%;
+    font-weight: bold;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.site{
+    margin-right: 20%;
+    font-weight: bold;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.local{
+    margin-right: 48%;
+    font-weight: bold;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 5%;
+}
